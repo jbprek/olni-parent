@@ -1,0 +1,12 @@
+{
+    "vltId": "123456",
+    "alias": "vltAlias for 123456",
+    "location": "bank 1, position 1",
+    "retailerId": "retailer_123",
+    "swSetAlias": "567_swsetalias_345",
+    "manufacturer": "VLT Manufacturer",
+    "dateCommissioned": "20130710T23:59:59.999-05:00"
+}
+
+
+{"retailers":[{"retailerId":"retailer_123","description":"This is a retailer.","email":"contactEmail@retailer.com","contactName":"Mike Retailer"},{"retailerId":"anotherRetailer","description":"This is another retailer.","email":"Bill@anotherRetailer.com","contactName":"Bill"},{"retailerId":"retailer_987","description":"Retailer 987.","email":"John987@retailer.com","contactName":"John Retailer"}]}
